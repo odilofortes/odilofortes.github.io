@@ -1,0 +1,486 @@
+[
+  {
+    "@context": "https://schema.org/",
+    "productId": 1,
+    "@type": "Product",
+    "name": "Pokemon Esmeralda",
+    "url": "https://twitter.com/Pokemon_ES_ESP",
+    "twitch": "pokemonchallenges",
+    "releaseDate": "2004/09/16",
+    "image": "https://images.wikidexcdn.net/mwuploads/wikidex/0/02/latest/20211108123052/Caratula_Esmeralda.jpg",
+    "description": "El origen de la region data de la antigua leyenda Pokemon, el Pokemon continente Groudon hizo crecer la tierra durante la batalla con el Pokemon oceano Kyogre quien extendio los mares, para resolver el conflicto de los cielos aparecio Rayquaza terminando con la batalla. Cada uno regreso a dormir, desde ese momento no se sabe nada de ellos, creyendo que solo desaparecieron. Pokémon Esmeralda (Pokémon Emerald en inglés, ポケットモンスター エメラルド Pocket Monsters Emerald en japonés) es la reedición que cierra la tercera generación iniciada por Pokémon Rubí y Zafiro. También llamado `Pokémon Edición Esmeralda`, en ella nos adentrábamos en la 3ª generación, en la cual 135 nuevos Pokémon nos acechaban. Era un gran paso de la Game Boy Color a la Game Boy Advance. Básicamente este es igual al anterior, pero añadiéndose un montón de novedades e información que hacen que el juego sea aún más completo.Te encuentras en la región de Hoenn, un pequeño archipiélago localizado al sureste de las regiones Kanto y Johto. Se caracteriza por la introducción de batallas dobles, concursos Pokémon, el complejo del Frente Batalla y dos nuevos equipos antagonistas, el Equipo Magma y el Equipo Aqua que desean capturar a Groudon y Kyogre respectivamente para cumplir sus planes. Esta región se divide en varias islas, algunas de estas solo disponibles con tickets (eventos especiales organizados por Nintendo: Isla Origen, Isla Suprema, Roca Ombligo e Isla del Sur) donde se encontrarán Pokémon legendarios (Deoxys, Mew, Ho-oh, Lugia, Latios o Latias), las rutas se numeran de la 101 a 134 y entre ciudades y pueblos, Villa Raíz donde está el laboratorio del profesor Abedul y comienzas tu viaje, Arrecípolis, donde se encuentra la Cueva Ancestral, y en ciudad Algaria esta el centro espacial, por mencionar unos cuantos. El origen de la región data de la antigua leyenda Pokémon, el Pokémon continente Groudon hizo crecer la tierra durante la batalla con el Pokémon océano Kyogre quien extendió los mares, para resolver el conflicto de los cielos apareció Rayquaza terminando con la batalla. Cada uno regresó a dormir, desde ese momento no se sabe nada de ellos, creyendo que solo desaparecieron. Los tres se pueden obtener en el juego.",
+    "manufacturer": "Nintendo",
+    "brand": {
+      "@type": "Brand",
+      "name": "Pokemon",
+      "slogan": "¡Hazte con todos!",
+      "logo": [
+        {
+          "@type": "URL",
+          "name": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/2560px-International_Pok%C3%A9mon_logo.svg.png"
+        }
+      ]
+    },
+    "color": "green",
+    "audience": "kids",
+    "award": "Best gameplay design 2004",
+    "countryOfOrigin": "Japan",
+    "isFamilyFriendly": "true"
+  },
+  {
+    "@context": "https://schema.org/",
+    "productId": 2,
+    "@type": "Product",
+    "name": "Ratchet Gladiator",
+    "url": "https://twitter.com/RaCUniverse",
+    "twitch": "ratchetandclank",
+    "releaseDate": "2005/10/25",
+    "image": "https://media.vandal.net/m/4526/2005121403658_1.jpg",
+    "description": "Ratchet es secuestrado junto con Clank y Al por 2 ejecutores y son llevados a un programa llamado la hora del terror, ubicado en el sector sombrío, al borde de la galaxia. En él tendrán que luchar en diversos planetas cumpliendo determinados objetivos para sobrevivir mientras consiguen audiencia en el programa de holovisión. Es un videojuego de disparos en tercera persona y acción desarrollado por Insomniac Games y publicado por Sony. Es la cuarta parte de la serie y su predecesor es Ratchet & Clank: Up Your Arsenal. Fue puesto a la venta el 25 de octubre de 2005 y el 18 de noviembre del mismo año en Europa. En Japón fue puesto a la venta el 23 de noviembre. Una versión el alta definición para PlayStation 3 se puso a la venta en 2013, con el título Ratchet: Deadlocked HD (Ratchet: Gladiator HD).La forma de juego de Ratchet: Gladiator es similar a los anteriores juegos de la serie, pero esta versión se centra más en el aspecto tirador, con muy pocos niveles de plataforma. Gran parte del juego gira en torno a la lucha contra robots. Además Ratchet ahora tendrá dos robots asistentes, estos le ayudarán a girar manivelas, plantar explosivos, entre otras tareas. Los asistentes de Ratchet también tienen mejoras y cambio de color. Ahora Clank ya no hace parte de la forma de jugador, en esta versión fue implementado como controlador de la misión (similar a la asistencia de Gadgetron en otras versiones). Actualmente es el único juego de la serie en el que se puede ajustar manualmente el nivel de dificultad.Ratchet es secuestrado junto con Clank y Al por 2 ejecutores (dos enemigos del juego) y son llevados a un programa llamado 'la hora del terror', ubicado en el sector sombrío, al borde de la galaxia. En él tendrán que luchar en diversos planetas cumpliendo determinados objetivos para sobrevivir mientras consiguen audiencia en el programa de holovisión.Los vehículos en el juego son cuatro, de los cuales tres son terrestres y uno volador, estos son: Acechador (Landstalker): El Acechador es una nueva adición a los vehículos en el juego. Se trata esencialmente de una plataforma con la cabina en la parte superior de la misma. Potencia hidráulica de cuatro patas, estas se extienden desde la plataforma. Cuando un jugador se sienta detrás de la cabina, hay lanzadores de mortero, cada uno capaz de disparar 3 misiles, aunque los lanzadores tienen que cargados, por esta razón son lentos. El movimiento del Acechador podría describirse como el de una araña, con las piernas en movimiento alternativo al mismo tiempo. también puede realizar saltos rápidos laterales para evadir el fuego enemigo. 'Hoverbike': la Hoverbike es un tipo de moto sin ruedas con torretas en la parte delantera. Es uno de los vehículos más veloces del juego (después de la 'Hovership') y esto lo vuelve un vehículo perfecto para misiones de velocidad, como encontrar enemigos rápidos y cruzar una serie de anillos rojos. Puma: Un vehículo bastante rápido y con un cañón también potente. Este vehículo combina velocidad y potencia, muy útil para acabar rápidamente, lo que lo convierte en uno de los mejores vehículos del juego. Nave flotante: Una potente nave. Posee dos ataques: un láser delantero y un lanza misiles con un sistema similar al del Acechador de igual potencia que su láser delantero.",
+    "manufacturer": "Insomniac",
+    "brand": {
+      "@type": "Brand",
+      "name": "Ratchet and Clank",
+      "slogan": "no me arriesgaria mas de seis minutos",
+      "logo": [
+        {
+          "@type": "URL",
+          "name": "https://static.wikia.nocookie.net/logopedia/images/e/ed/Ratchet_%26_Clank_Logo_%282007%2C_2012%29_%28Alternative%29.png"
+        }
+      ]
+    },
+    "color": "brown",
+    "audience": "kids",
+    "award": "Best glitchy design 2005",
+    "countryOfOrigin": "EEUU",
+    "isFamilyFriendly": "false"
+  },
+  {
+    "@context": "https://schema.org/",
+    "productId": 3,
+    "@type": "Product",
+    "name": "Fortnite",
+    "url": "https://twitter.com/FortniteGame",
+    "twitch": "fortnite",
+    "releaseDate": "2017/06/25",
+    "image": "https://i.pinimg.com/originals/d1/6e/bc/d16ebc08ac0981d9d34e0914aa1ec30e.jpg",
+    "description": "Los modos de juego publicados en 2017 incluyen Fortnite Battle Royale, un juego gratuito donde hasta cien jugadores luchan en una isla, en espacios cada vez más pequeños debido a la tormenta, para ser la última persona o equipo en pie, y Fortnite: Salvar el mundo, un juego cooperativo de hasta cuatro jugadores que consiste en luchar contra carcasas, criaturas parecidas a zombis, utilizando objetos, mejoras y fortificaciones. Fortnite es un videojuego del año 2017 desarrollado por la empresa Epic Games, lanzado como diferentes paquetes de software que presentan diferentes modos de juego, pero que comparten el mismo motor de juego y mecánicas. Fue anunciado en los Spike Video Game Awards en 2011.Los modos de juego publicados en 2017 incluyen Fortnite Battle Royale, un juego gratuito donde hasta cien jugadores luchan en una isla, en espacios cada vez más pequeños debido a la tormenta, para ser la última persona o equipo en pie, y Fortnite: Salvar el mundo, un juego cooperativo de hasta cuatro jugadores que consiste en luchar contra carcasas, criaturas parecidas a zombis, utilizando objetos, mejoras y fortificaciones.Ambos modos de juego se lanzaron en 2017 como títulos de acceso anticipado. Salvar el Mundo está disponible solo para Windows, macOS, PlayStation 4 y Xbox One, mientras que Battle Royale ha sido publicado también para Nintendo Switch, dispositivos iOS y Android, así como en PlayStation 5 y Xbox Series X|S. En agosto de 2020, el juego fue retirado de la tiendas App Store y Play Store por infringir sus normas, aunque sigue disponible en la tienda Epic Games Store así como en la Galaxy Store. Actualmente, Fortnite se divide en tres modos de juego, aunque cada modo utiliza el mismo motor y tiene gráficos, recursos artísticos y mecánicas de juego muy similares.Los dos modos de juego principales están configurados para ser títulos gratuitos, aunque actualmente Salvar el mundo está en un acceso anticipado y requiere ser comprado. Ambos juegos se monetizan mediante el uso de V-Bucks (PaVos o Monedas V en español), la moneda del juego que también se puede ganar solo a través de Salvar el mundo. Los V-Bucks en Salvar el mundo se pueden usar para comprar piñatas con forma de llamas para obtener una selección aleatoria de artículos. En Battle Royale, los V-Bucks se pueden usar para comprar artículos cosméticos como modelos de personajes o similares, o también se puede usar para comprar el pase de batalla, una progresión escalonada de recompensas de personalización para ganar experiencia y completar ciertos objetivos durante el juego, en el curso de una temporada de Battle Royale.",
+    "manufacturer": "Epic Games",
+    "brand": {
+      "@type": "Brand",
+      "name": "Fortnite",
+      "slogan": "take the L",
+      "logo": [
+        {
+          "@type": "URL",
+          "name": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/FortniteLogo.svg/375px-FortniteLogo.svg.png"
+        }
+      ]
+    },
+    "color": "purple",
+    "audience": "kids",
+    "award": "Best innovative gamemode 2017",
+    "countryOfOrigin": "EEUU",
+    "isFamilyFriendly": "true"
+  },
+  {
+    "@context": "https://schema.org/",
+    "productId": 4,
+    "@type": "Product",
+    "name": "Sly Cooper 2",
+    "url": "https://twitter.com/SlyCooper_Wiki",
+    "twitch": "cinderkit5",
+    "releaseDate": "2004/09/14",
+    "image": "https://i.ebayimg.com/images/g/W0AAAMXQjwVQ9yhM/s-l500.jpg",
+    "description": "Sly Cooper es una saga de videojuegos de plataformas, acción y sigilo homónima a su personaje principal para PlayStation 2, PlayStation 3 y PlayStation Vita desarrollada y creada por Sucker Punch Productions a finales del 2002, cuyos juegos ha creado esta compañía y Sanzaru Games. La saga se conoce de forma original como 'la saga Sly Cooper', sin embargo, el título del primer videojuego fue cambiado en los países europeos y australianos a Sly Raccoon ('Sly el mapache') de modo que se ha generado confusión y polémica con respecto al verdadero título de la saga. La saga Sly Cooper se compone de hasta la fecha de cuatro videojuegos más una recopilación de los tres primeros. Durante muchos años, se creyó que no sería lanzada una cuarta entrega de la serie, considerando la saga una trilogía con un final que, pese a haber zanjado las cuestiones de los juegos, era abierto. Por ello y porque el cuarto videojuego ha sido desarrollado por otra compañía, mucha gente se refiere a los tres primeros juegos como 'la serie original'. Según algunas páginas y en algunos vídeos de YouTube, se dice que podría haber un nuevo título de Sly Cooper 5 desarrollada para la PlayStation 5 en el verano de 2022. Sly Cooper es un mapache y último descendiente de una familia de maestros del robo que roban 'con honor', es decir, únicamente roban a aquellos que consiguen dinero y beneficios de actividades ilegales como la falsificación. Tras asaltar su casa la Banda de los Cinco Malvados y quedar huérfano, Sly va a parar a un orfanato donde conoce a los que serán sus dos mejores amigos y socios de su banda para siempre, Murray y Bentley. Sly y su banda realizan diversos golpes alrededor del mundo, siempre perseguidos por la Inspectora Carmelita Fox de la Interpol, por la cual Sly siente una gran atracción (y por lo visto el sentimiento es mutuo), aunque la situación de ladrón y policía les impide a alguno de los dos mostrar sus verdaderas intenciones con respecto al otro. A lo largo de los juegos, Sly y los suyos se marcan una serie de objetivos al toparse con villanos que interfieren en sus planes, de los cuales tienen que desbaratar sus planes para hacer justicia desde las sombras, salvando siempre al mundo de los malvados planes de algún falsificador, una organización explotadora de la naturaleza o parecidos.",
+    "manufacturer": "Sucker Punch",
+    "brand": {
+      "@type": "Brand",
+      "name": "Sly Cooper 2",
+      "slogan": "Steal everything as you can!",
+      "logo": [
+        {
+          "@type": "URL",
+          "name": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sly_Logo.png"
+        }
+      ]
+    },
+    "color": "Blue",
+    "audience": "kids",
+    "award": "Best original character 2002",
+    "countryOfOrigin": "EEUU",
+    "isFamilyFriendly": "true"
+  },
+  {
+    "@context": "https://schema.org/",
+    "productId": 5,
+    "@type": "Product",
+    "name": "Little Big Planet",
+    "url": "https://twitter.com/LittleBigPlanet",
+    "twitch": "elxokas",
+    "releaseDate": "2017/06/25",
+    "image": "https://m.media-amazon.com/images/I/61nPZmlHfKL._SX342_.jpg",
+    "description": "En LittleBigPlanet, los jugadores controlarán pequeños personajes apodados sackboy, dependiendo de su material y apariencia. Cada uno puede correr y saltar, así como colgarse, arrastrar y empujar objetos. Los jugadores usan estas habilidades de diferentes formas: para jugar y explorar los ambientes del juego, en los que predominan las acciones de los juegos de plataforma como saltar, empujar, agarrarse y correr. El juego hace uso de un poderoso motor físico11 para crear su propio contenido, como por ejemplo ubicar etiquetas adhesivas en los niveles, así mismo se puede utilizar el editor de niveles para crear, destruir, editar y manipular niveles11 para finalmente compartir dichas creaciones con la comunidad en línea para después jugar con los niveles creados por el propio usuario con otros. Estas tres acciones son descritas por el eslogan del título: Jugar. Crear. Compartir. Los jugadores comienzan dentro de su propio pod, un espacio personal desde el pueden acceder a los tres modos del juego, y decorar el cuarto con etiquetas adhesivas y decoraciones. Inicialmente, sólo el modo de juego está activado, a partir del cual el jugador toma algunos tutoriales, narrados por Stephen Fry; y cuando lo básico está dominado, el jugador es libre de seguir desempeñando cualquier parte del juego.",
+    "manufacturer": "Media Molecule",
+    "brand": {
+      "@type": "Brand",
+      "name": "Little Big Planet",
+      "slogan": "Dreams. Fantasies. Ideas.",
+      "logo": [
+        {
+          "@type": "URL",
+          "name": "https://upload.wikimedia.org/wikipedia/en/2/2b/LBP_Stacked_Logo_500x373.png"
+        }
+      ]
+    },
+    "color": "Brown",
+    "audience": "kids",
+    "award": "Interactive Achievement Award 2001",
+    "countryOfOrigin": "EEUU",
+    "isFamilyFriendly": "true"
+  },
+  {
+    "@context": "https://schema.org/",
+    "productId": 6,
+    "@type": "Product",
+    "name": "The Legend of Zelda Majora's Mask",
+    "url": "https://twitter.com/UniversoZelda",
+    "twitch": "luis_majoras",
+    "releaseDate": "2000/06/27",
+    "image": "https://m.media-amazon.com/images/I/81-iGyyz5-L._AC_SL1500_.jpg",
+    "description": "The Legend of Zelda: Majora's Mask (en español: La leyenda de Zelda: La Máscara de Majora), conocido en Japón como Zelda no Densetsu: Mujura no Kamen (ゼルダの伝説 ムジュラの仮面 Zeruda no Densetsu Mujura no Kamen?, lit. La Leyenda de Zelda: La Máscara de Mujura), es un videojuego de acción-aventura de la serie The Legend of Zelda desarrollado por la división Entertainment Analysis and Development de Nintendo para la videoconsola Nintendo 64. Fue lanzado el 27 de abril de 2000 en Japón; el 26 de octubre de 2000 en Norteamérica; y el 17 de noviembre de 2000 en Europa. El título vendió aproximadamente 314.000 copias en Japón durante su primera semana, ha vendido 3.84 millones de copias en todo el mundo y ha cosechado críticas muy positivas. Fue relanzado para la Nintendo GameCube como parte del recopilatorio The Legend of Zelda: Collector's Edition y en el servicio Virtual Console de Wii el 3 de abril de 2009 en la región PAL, el 7 de abril en Japón y el 18 de mayo de 2009 en Norteamérica. Una adaptación para la Nintendo 3DS, titulado The Legend of Zelda: Majora's Mask 3D, fue lanzado el 13 de febrero de 2015. Este título requiere, en su versión para Nintendo 64, el uso del periférico Expansion Pak, que proporciona memoria adicional para lograr gráficos mejorados y un mayor número de personajes simultáneos en pantalla. Majora's Mask es la sexta entrega de la serie The Legend of Zelda y la segunda en usar gráficos en 3D, siendo la primera su predecesor, The Legend of Zelda: Ocarina of Time. Es también el primer título con Eiji Aonuma como máximo responsable, asumiendo el papel de productor, además de repetir el de director que ya ejerció en The Legend of Zelda: Ocarina of Time. El juego tiene lugar en Términa, una versión alternativa del emplazamiento habitual de la serie: Hyrule. Allí, un Skull Kid ha robado la «Máscara de Majora», un poderoso y antiguo artefacto. Bajo su influencia está provocando estragos entre los ciudadanos y amenaza con destruir el mundo lanzando la luna sobre este en un corto periodo de 72 horas. El protagonista principal, Link, se embarca en una aventura a través del tiempo, reviviendo una y otra vez los tres días que tiene como plazo para evitar el cataclismo.",
+    "manufacturer": "Nintendo",
+    "brand": {
+      "@type": "Brand",
+      "name": "The Legend of Zelda: Majora's Mask",
+      "slogan": "You have met with a terrible fate, haven't you?",
+      "logo": [
+        {
+          "@type": "URL",
+          "name": "https://static.wikia.nocookie.net/amiibopedia/images/1/14/Logo_de_The_Legend_of_Zelda_-_Majora%27s_Mask.png/revision/latest?cb=20170413213138&path-prefix=es"
+        }
+      ]
+    },
+    "color": "Purple",
+    "audience": "kids",
+    "award": "Best PlayStation3 videogame 2008",
+    "countryOfOrigin": "Japon",
+    "isFamilyFriendly": "true"
+  },
+  {
+    "@context": "https://schema.org/",
+    "productId": 7,
+    "@type": "Product",
+    "name": "Spore",
+    "url": "https://twitter.com/Spore",
+    "twitch": "fernanfloo",
+    "releaseDate": "2008/06/7",
+    "image": "https://m.media-amazon.com/images/I/6192z2N5FnL.jpg",
+    "description": "Spore es un videojuego de simulación de vida y estrategia para Apple Macintosh y Microsoft Windows desarrollado por Maxis y diseñado por Will Wright que simula la evolución de una especie desde las etapas más primitivas (seres unicelulares), hasta la colonización de la galaxia por parte del ser evolucionado. Su concepto, alcance y filosofía del desarrollo han captado una amplia atención. Con estos datos, se podría decir que es un excelente experimento lamarckista. En esencia, Spore es un juego desarrollado por EA de 'evolución', ya que el jugador decide el proceso evolutivo de la criatura, aunque de un modo más amplio: el jugador modela (y esto quiere decir que 'dibuja' libremente la totalidad del personaje utilizando piezas que la criatura va consiguiendo a lo largo de tu 'aventura', tal como si se tratase de una masilla) y guía una especie a través de muchas generaciones haciéndola crecer desde un simple organismo unicelular y convirtiéndola en un animal más complejo, hasta que la especie llega a alcanzar un cierto nivel de inteligencia. En este punto el jugador comienza a modelar y a dirigir a esta sociedad, progresando desde los albores de la civilización hasta alcanzar la capacidad de explorar el espacio.El juego primero fue revelado y demostrado al público durante un discurso en la generación procesal en la conferencia 2005 de los desarrolladores. Fue publicado por Electronic Arts el 7 de septiembre de 2008 en los Estados Unidos, y el 5 en Europa y Brasil (fecha oficial). El precio del juego ronda las 49,95 € (la versión normal) mientras que en la descarga directa digital el precio sube a 56,95€. También existe una edición especial llamada 'Galactic Edition' que incluye dos DVD extra ('Cómo se hizo' y 'Cómo hacer la mejor creación'), un libro de 'El arte de Spore' y un póster desplegable que muestra la amplitud del juego, ambos en inglés con subtítulos en castellano. EA lanzó el 17 de junio al mercado el Creador de Criaturas al completo a un precio de 9,95 €, y está disponible una versión gratuita desde la página oficial de Spore que contendrá un 25% de la funcionalidad de la versión de pago. Esta aplicación está incluida en el juego definitivo Spore.",
+    "manufacturer": "Maxis",
+    "brand": {
+      "@type": "Brand",
+      "name": "Spore",
+      "slogan": "Spore",
+      "logo": [
+        {
+          "@type": "URL",
+          "name": "https://static.wikia.nocookie.net/amiibopedia/images/1/14/Logo_de_The_Legend_of_Zelda_-_Majora%27s_Mask.png/revision/latest?cb=20170413213138&path-prefix=es"
+        }
+      ]
+    },
+    "color": "Purple",
+    "audience": "kids",
+    "award": "Premio BAFTA 2009",
+    "countryOfOrigin": "EEUU",
+    "isFamilyFriendly": "true"
+  },
+  {
+    "@context": "https://schema.org/",
+    "productId": 8,
+    "@type": "Product",
+    "name": "Shadow of the Colossus",
+    "url": "https://twitter.com/Nomad_Colossus",
+    "twitch": "gamesocietypimps",
+    "releaseDate": "2005/10/18",
+    "image": "https://media.vandal.net/m/1903/20051224193432_1.jpg",
+    "description": "Shadow of the Colossus (ワンダと巨像 Wanda to Kyozō?, lit. «Wander y el coloso») es un videojuego de acción-aventura desarrollado y publicado por Sony Computer Entertainment (SCEI) para PlayStation 2. El juego fue publicado en Norteamérica y Japón en octubre de 2005, y posteriormente en Europa en febrero de 2006. Fue creado por el Estudio Internacional de Producción 1 de SCEI, el mismo grupo de desarrollo responsable del éxito de culto Ico. El juego trata de un joven conocido únicamente como Wander (del inglés wanderer, ('vagabundo'), que debe viajar a caballo a través de un vasto territorio y derrotar a 16 gigantes, conocidos colectivamente como «Colossi» («colosos» en español) para devolver la vida a una joven llamada Mono. El juego es inusual entre los videojuegos de acción-aventura por el hecho de que no hay pueblos o calabozos para explorar, no hay personajes con los que interactuar y no hay otros enemigos a los que enfrentarse aparte de los colosos. Shadow of the Colossus ha sido descrito como un juego de rompecabezas, ya que hay que descubrir y explotar la debilidad de cada coloso antes de poder derrotarlo. En la conferencia de Sony del E3 de 2017 fue anunciado un remake exclusivo para PlayStation 4 del juego con gráficos renovados y mejoras en el rendimiento desarrollado por Bluepoint Games, responsables de otros remakes de calidad como God of War collection para PlayStation 3 o el más reciente Uncharted: The Nathan Drake Collection. La versión fue lanzado finalmente en febrero de 2018.",
+    "manufacturer": "Team ICO",
+    "brand": {
+      "@type": "Brand",
+      "name": "Shadow of the Colossus",
+      "slogan": "Shadow of the Colossus",
+      "logo": [
+        {
+          "@type": "URL",
+          "name": "https://media.vandal.net/m/1903/20051224193432_1.jpg"
+        }
+      ]
+    },
+    "color": "Black",
+    "audience": "kids",
+    "award": "Premio BAFTA Mejor realizacion artistica 2006",
+    "countryOfOrigin": "EEUU",
+    "isFamilyFriendly": "true"
+  },
+  {
+    "@context": "https://schema.org/",
+    "productId": 9,
+    "@type": "Product",
+    "name": "Kingdom Hearts",
+    "url": "https://twitter.com/KINGDOMHEARTS",
+    "twitch": "bandityoshi",
+    "releaseDate": "2002/03/28",
+    "image": "https://m.media-amazon.com/images/I/918AUL+i-DL._SL1500_.jpg",
+    "description": "Kingdom Hearts (キングダムハーツ Kingudamu Hātsu?) es el nombre de la serie de videojuegos, perteneciente al género de juegos de rol de acción, desarrollado y publicado por Square Enix. Surge de la colaboración de Square Enix y Disney Interactive Studios, bajo la dirección de Tetsuya Nomura, diseñador de larga trayectoria en Square Enix. Kingdom Hearts es un crossover de varios títulos de dibujos animados de Disney pero siendo adaptados al universo del juego. La serie incluye muchas de las voces oficiales de los personajes de Disney y también a reconocidos actores tales como Haley Joel Osment, David Gallagher, Jesse McCartney, Mark Hamill y Hayden Panettiere. También hacen aparición personajes de la serie Final Fantasy de Square Enix, los cuales interactúan con el jugador y los personajes de Disney. La serie se centra en la búsqueda de los amigos del personaje principal, Sora, lo cual lo llevara a recorrer varios mundos en donde conocerá a los distintos personajes de Disney y Final Fantasy. Actualmente la serie se encuentra conformada por catorce videojuegos para distintas plataformas, y el 10 de junio de 2013 durante la conferencia de Sony del E3 se anunció y se mostró un tráiler de Kingdom Hearts III para PlayStation 4, al siguiente día Square Enix reveló que también sería para Xbox One. Kingdom Hearts III se lanzó al mercado el 29 de enero de 2019. Su director, Tetsuya Nomura, explicó en el evento D23 Expo de Disney, las razones por las que se ha retrasado tanto. La mayoría de los juegos han sido bien recibidos por la crítica y han tenido un gran éxito comercial, aunque cada título ha tenido diferentes niveles de éxito. En septiembre de 2008, la serie Kingdom Hearts ya había vendido más de 12 millones de copias en todo el mundo, con 2 millones de copias en las regiones PAL, 3 millones de copias en Japón, y 5,6 millones de copias en Norteamérica. Además una gran variedad de mercancía ha sido puesta a la venta junto con los juegos en donde se incluyen soundtracks, figuras de acción, libros, juegos de cartas, entre otros. Además cada juego es adaptado a manga y a una serie de novelas y posiblemente al anime.Square Enix anunció que saldrá toda la saga para PC a partir del 30 de marzo de 2021, agregando así mejoras gráficas a los juegos y compatibilidad completa a los juegos para Windows.",
+    "manufacturer": "Square Enix",
+    "brand": {
+      "@type": "Brand",
+      "name": "Kingdom Hearts",
+      "slogan": "Dearly Beloved",
+      "logo": [
+        {
+          "@type": "URL",
+          "name": "https://m.media-amazon.com/images/I/918AUL+i-DL._SL1500_.jpg"
+        }
+      ]
+    },
+    "color": "Yellow",
+    "audience": "kids",
+    "award": "Mejor Estilo y Dirección Artística 2006",
+    "countryOfOrigin": "EEUU",
+    "isFamilyFriendly": "true"
+  },
+  {
+    "@context": "https://schema.org/",
+    "productId": 10,
+    "@type": "Product",
+    "name": "Ratchet & Clank",
+    "url": "https://twitter.com/RaCUniverse",
+    "twitch": "ratchetandclank",
+    "releaseDate": "2002/10/4",
+    "image": "https://m.media-amazon.com/images/I/51V98JNZMPL._AC_.jpg",
+    "description": "Ratchet & Clank es un videojuego de plataformas y disparos en primera y tercera persona desarrollado originalmente para PlayStation 2, desarrollado por Insomniac Games y distribuido por Sony Computer Entertainment. Fue lanzado en varios territorios durante 2002; en Europa se estrenó el 8 de noviembre de 2002. En 2012, el videojuego se relanzó para PlayStation 3 como parte de un recopilatorio de las tres primeras entregas de la serie, denominado Ratchet & Clank Trilogy HD, que apareció en Europa el 27 de junio. En el certamen E3 2014 de Los Ángeles, la desarrolladora Insomniac Games anunció un remake de este título para la consola PlayStation 4, con fecha de lanzamiento para 2015. El videojuego presenta las aventuras del dúo de personajes principales, compuesto por el lombax antropomórfico Ratchet y su robot acompañante Clank, los cuales se conocen en el planeta natal del primero. Ambos recorren planeta por planeta la galaxia ficticia en la que se ambienta el título, en busca del villano principal, Drek, el cual busca la creación de un nuevo planeta para su posterior dominio, teniendo ello como consecuencia la destrucción del resto de la galaxia. En cuanto a mecánica de juego, se combinan fases de plataformas a superar para avanzar en el mapeado de cada planeta con otros momentos en los que el jugador deberá utilizar el arsenal de armas del que dispone para derrotar a los múltiples tipos de enemigos existentes en cada zona, alternadas con pequeños rompecabezas que abren nuevas áreas al ser resueltos. Al avanzar en la aventura, el jugador dispondrá de nuevas armas y dispositivos que le ayudarán a seguir progresando hasta la batalla final.",
+    "manufacturer": "Insomniac",
+    "brand": {
+      "@type": "Brand",
+      "name": "Ratchet & Clank(2002)",
+      "slogan": "",
+      "logo": [
+        {
+          "@type": "URL",
+          "name": "https://m.media-amazon.com/images/I/51V98JNZMPL._AC_.jpg"
+        }
+      ]
+    },
+    "color": "Yellow",
+    "audience": "kids",
+    "award": "Best action game 2004",
+    "countryOfOrigin": "EEUU",
+    "isFamilyFriendly": "true"
+  },
+  {
+    "@context": "https://schema.org/",
+    "productId": 11,
+    "@type": "Product",
+    "name": "The Legend of Zelda Phantom Hourglass",
+    "url": "https://twitter.com/UniversoZelda",
+    "twitch": "lvparg",
+    "releaseDate": "2007/06/23",
+    "image": "https://m.media-amazon.com/images/I/518FQZBEKaL._AC_.jpg",
+    "description": "The Legend of Zelda: Phantom Hourglass (La leyenda de Zelda: Reloj Espectral) es un videojuego de acción-aventura desarrollado por Nintendo Entertainment Analysis and Development, distribuido por Nintendo para la consola portátil Nintendo DS, y lanzado en junio de 2007 en Japón, y en Norteamérica, Australia y Europa en octubre del mismo año. Es el decimocuarto título de la serie de Nintendo The Legend of Zelda y fue lanzado poco después de The Legend of Zelda: Twilight Princess para Wii y antes de The Legend of Zelda: Spirit Tracks para Nintendo DS. El videojuego contiene gráficos cel shading en 3D con una perspectiva cenital, y utiliza las características de Nintendo DS para los controles del juego, entre las cuales se incluyen la pantalla táctil y el micrófono, además de hacer uso de la conexión Wi-Fi de Nintendo para jugar en línea. Los hechos de la historia ocurren inmediatamente después de los de The Legend of Zelda: The Wind Waker, y se centra en la travesía de Link para salvar a su amiga Tetra del antagonista de la historia, Bellum, con la ayuda del Capitán Linebeck y su barco, el S.S. Linebeck. Las críticas hacia Phantom Hourglass fueron en su mayoría positivas; los especialistas elogiaron principalmente su sistema de control, mientras que otros criticaron el modo de juego en línea, que consideraron muy sencillo. Phantom Hourglass fue galardonado con varios premios de la industria de los videojuegos, entre los que se incluyen el premio «Juego del año» de Nintendo DS por IGN, GameSpy y GameSpot. Respecto a sus ventas, se convirtió en el videojuego más vendido en su primer mes de distribución en Japón con 302 887 copias, y en Estados Unidos fue el quinto más vendido cuando debutó en octubre de 2007, con 262 800 copias. Considerando datos hasta marzo de 2008, alrededor de cuatro millones de copias de Phantom Hourglass se vendieron mundialmente.",
+    "manufacturer": "Nintendo",
+    "brand": {
+      "@type": "Brand",
+      "name": "The Legend of Zelda: Phantom Hourglass",
+      "slogan": "Hey Listen!",
+      "logo": [
+        {
+          "@type": "URL",
+          "name": "https://m.media-amazon.com/images/I/518FQZBEKaL._AC_.jpg"
+        }
+      ]
+    },
+    "color": "Yellow",
+    "audience": "kids",
+    "award": "Premio VGX al Mejor Juego de Mano",
+    "countryOfOrigin": "Japon",
+    "isFamilyFriendly": "true"
+  },
+  {
+    "@context": "https://schema.org/",
+    "productId": 12,
+    "@type": "Product",
+    "name": "Jak 3",
+    "url": "https://twitter.com/Jak_Daxter_3",
+    "twitch": "pork_championripto",
+    "releaseDate": "2004/10/9",
+    "image": "https://m.media-amazon.com/images/I/71p8M2gyksL._AC_SY500_.jpg",
+    "description": "Jak 3 es un videojuego de plataformas de acción-aventura desarrollado por Naughty Dog y distribuido por Sony Computer Entertainment. El título, precedido por Jak II, es el tercer juego de la serie Jak and Daxter. Fue lanzado en Norteamérica el 9 de noviembre de 2004 y en Europa el 26 de noviembre de 2004. La trama del juego comienza exactamente donde finalizó su antecesor; en el desierto de la estepa, allí, Jak descubre una ciudad fuera de las murallas de villa refugio, donde tendrá que sobrevivir y buscarse una nueva vida. El juego presenta una ambientación y mapa particularmente más extenso que el visto en Jak II, además de incluir nuevas armas, objetos y vehículos. Jak 3 recibió críticas positivas, obteniendo un puntaje promedio de 84 sobre 100 en Metacritic. También recibió, por parte de IGN la posición número 23 en «Los mejores juego de PS2 de todos los tiempos», además de una puntuación de 9,6 sobre 10 de dicha página.",
+    "manufacturer": "Naughty Dog",
+    "brand": {
+      "@type": "Brand",
+      "name": "Jak & Daxter",
+      "slogan": "Creen que soy un dios...¡Y tienen razon!",
+      "logo": [
+        {
+          "@type": "URL",
+          "name": "https://m.media-amazon.com/images/I/71p8M2gyksL._AC_SY500_.jpg"
+        }
+      ]
+    },
+    "color": "Orange",
+    "audience": "kids",
+    "award": "Premio VGX al Mejor Juego de Mano",
+    "countryOfOrigin": "EEUU",
+    "isFamilyFriendly": "true"
+  },
+  {
+    "@context": "https://schema.org/",
+    "productId": 13,
+    "@type": "Product",
+    "name": "Grand Theft Auto San Andreas",
+    "url": "https://twitter.com/gtasafan",
+    "twitch": "fatalitypcm",
+    "releaseDate": "2004/10/26",
+    "image": "https://m.media-amazon.com/images/I/51lFTDlb2EL._AC_.jpg",
+    "description": "Grand Theft Auto: San Andreas es un videojuego de acción-aventura de mundo abierto desarrollado por Rockstar North y publicado por Rockstar Games. Fue confirmado oficialmente por la mencionada Rockstar Games a principios de marzo de 2004, y su fecha de lanzamiento tentativa se programó para el 19 y 22 de octubre de ese año para América del Norte y Europa. Distribuido por Take-Two Interactive, San Andreas fue lanzado originalmente para PlayStation 2 el 26 de octubre de 2004, aunque posteriormente se publicaron distintas versiones, tanto para videoconsolas de sexta, séptima y octava generación, así como ordenadores, y teléfonos inteligentes. La trama del juego ocurre en San Andreas, estado ficticio que contiene a tres ciudades metropolitanas: Los Santos, San Fierro y Las Venturas; las tres basadas en las ciudades de Los Ángeles, San Francisco y Las Vegas, respectivamente, siendo el segundo mapa más extenso de la saga detrás de GTA V. Ambientado en 1992, la obra cuenta la historia de Carl Johnson “CJ”, quien decide volver a Los Santos tras cinco años de haberse ausentado en Liberty City —ciudad de otros videojuegos de la saga como GTA III, GTA Liberty City Stories o GTA IV— después de enterarse del asesinato de su madre. Al llegar, CJ intenta restablecer el poder de su antigua banda y su familia, mientras desvela poco a poco la verdad detrás de la muerte de su madre. Su trama se basa libremente en sucesos como la rivalidad entre las pandillas Bloods y Crips, la epidemia de crack, el escándalo Rampart y los disturbios de Los Ángeles de 1992. Grand Theft Auto: San Andreas está estructurado de manera similar a los títulos anteriores de la serie. El núcleo de las mecánicas de juego consiste en elementos de disparos en tercera persona, conducción y mundo abierto. Por primera vez en la serie, el jugador puede nadar, bucear, conducir un tren y trepar muros. Además, se hizo hincapié en la personalización del protagonista, añadiendo variadas estadísticas de habilidad en áreas tales como conducción, manejo de armas de fuego y atributos físicos. También hubo una mejora en el motor gráfico del juego, siendo una versión actualizada del Renderware, que también era utilizado por títulos anteriores como GTA III y Vice City. Muchos de estos mecanismos en el juego, sumado a la historia del mismo lograron una gran aceptación por parte del público, lo que provocó que la entrega fuera considerada como la más querida de GTA, el videojuego más vendido de la PlayStation 2, e incluso, el mejor y más completo videojuego de la saga. Grand Theft Auto: San Andreas recibió la aprobación casi unánime de la crítica. En el sitio web Metacritic, el juego posee una nota promedio de 95 sobre 100 para la plataforma PlayStation 2. Por su parte, las versiones de Windows y Xbox tienen una puntuación de 93 sobre 100. Asimismo, en dicha web el título se presenta como el quinto juego mejor puntuado de PlayStation 2, además de ser el videojuego más vendido de dicha consola, y el segundo con más ventas totales de la saga.",
+    "manufacturer": "Rockstar Games",
+    "brand": {
+      "@type": "Brand",
+      "name": "Grand Theft Auto",
+      "slogan": "Pium pium!",
+      "logo": [
+        {
+          "@type": "URL",
+          "name": "https://m.media-amazon.com/images/I/51lFTDlb2EL._AC_.jpg"
+        }
+      ]
+    },
+    "color": "Orange",
+    "audience": "kids",
+    "award": "Golden Joystick Award for Game of the Year 2005",
+    "countryOfOrigin": "EEUU",
+    "isFamilyFriendly": "true"
+  },
+  {
+    "@context": "https://schema.org/",
+    "productId": 14,
+    "@type": "Product",
+    "name": "NBA 2K16",
+    "url": "https://twitter.com/NBA2K16HACKS",
+    "twitch": "nba2kleague",
+    "releaseDate": "2015/09/29",
+    "image": "https://m.media-amazon.com/images/I/91zpIOshFwL._AC_SL1500_.jpg",
+    "description": "NBA 2K16 es un videojuego de baloncesto desarrollado por Visual Concepts y publicado por 2K Sports para PlayStation 3, PlayStation 4, Xbox 360, Xbox One, Microsoft Windows, Android e iOS. La serie NBA 2K es una serie de videojuegos de baloncesto desarrollada y publicada anualmente. Desde 1999 a 2001, la serie NBA 2K era exclusiva para la Sega Dreamcast. La serie fue originalmente publicada por Sega, bajo la etiqueta de Sega Sports y ahora es publicada por 2K Sports. Todos los juegos de la franquicia han sido desarrollados por Visual Concepts. Su principal competidor en el mercado fue la serie NBA Live de EA Sports.",
+    "manufacturer": "2K Sports",
+    "brand": {
+      "@type": "Brand",
+      "name": "NBA 2K",
+      "slogan": "Chof",
+      "logo": [
+        {
+          "@type": "URL",
+          "name": "https://m.media-amazon.com/images/I/91zpIOshFwL._AC_SL1500_.jpg"
+        }
+      ]
+    },
+    "color": "Red",
+    "audience": "kids",
+    "award": "NAVGTR Award",
+    "countryOfOrigin": "EEUU",
+    "isFamilyFriendly": "true"
+  },
+  {
+    "@context": "https://schema.org/",
+    "productId": 15,
+    "@type": "Product",
+    "name": "Hannah Montana Gira Mundial",
+    "url": "https://twitter.com/MileyCyrus",
+    "twitch": "elxokas",
+    "releaseDate": "2008/06/17",
+    "image": "https://m.media-amazon.com/images/I/51HFUMdnstL._AC_.jpg",
+    "description": "Videojuego de la famosísima Hannah Montana. Aunque ella parece ser una adolescente común y corriente para sus compañeros de estudio y profesores, Miley Stewart tiene una vida doble, la joven se transforma en una famosa cantante de música pop, que se llama Hannah Montana, ella lo hace en la noche, para interpretar sus canciones. Su identidad secreta la conocen únicamente su familia y algunos de sus amigos y confidentes más cercanos, quienes le colaboran en todo momento para poder mantener su secreto bien guardado y así no llegar a ser descubierta.",
+    "manufacturer": "Avalanche Studios",
+    "brand": {
+      "@type": "Brand",
+      "name": "Hannah Montana",
+      "slogan": "Sing with Hannah!",
+      "logo": [
+        {
+          "@type": "URL",
+          "name": "https://m.media-amazon.com/images/I/51HFUMdnstL._AC_.jpg"
+        }
+      ]
+    },
+    "color": "Red",
+    "audience": "kids",
+    "award": "None",
+    "countryOfOrigin": "EEUU",
+    "isFamilyFriendly": "true"
+  },
+  {
+    "@context": "https://schema.org/",
+    "productId": 16,
+    "@type": "Product",
+    "name": "Clash Royale",
+    "url": "https://twitter.com/ClashRoyaleES",
+    "twitch": "beniju03",
+    "releaseDate": "2016/03/02",
+    "image": "https://static-cdn.jtvnw.net/ttv-boxart/491168_IGDB-272x380.jpg",
+    "description": "Clash Royale es un videojuego de tower rush que enfrenta a los jugadores en juegos con dos o cuatro jugadores (1v1 o 2v2) en los que el objetivo es destruir las torres enemigas (si es destruida la Torre del Rey se acaba la partida.  Después de tres minutos, si ambos jugadores / equipos tienen el mismo número de coronas o ninguna, el partido continúa en un período de tiempo extra de 1 minuto (más dependiendo de la arena) y el jugador que destruye una torre enemiga, gana instantáneamente. Si no se destruyen torres durante el tiempo extra, hay un desempate, donde todas las torres pierden salud rápidamente y se destruye la torre con la menor salud En Clash Royale, los jugadores se clasifican según su número de trofeos. Los jugadores suben de nivel ganando puntos de Experiencia (o Nivel Rey) mediante la donación y la mejora de cartas. El nivel más alto posible es el nivel 14. La actualización de diciembre de 2018 agregó Puntos Estelares, por experiencia excesiva cuando los jugadores alcanzan el nivel 13, y otorgarón Puntos Estelares por la experiencia sobrante anteriormente. Los trofeos se ganan o se pierden en batallas multijugador, un jugador gana una batalla al destruir más torres que el oponente (cada torre destruida se representa como una 'corona'), o al destruir la Torre del Rey del oponente, lo que resulta en una 'tres coronas' automática 'victoria (a menos que la Torre del Rey fuera destruida al mismo tiempo por ambos jugadores, lo que resultó en un empate).",
+    "manufacturer": "Supercell",
+    "brand": {
+      "@type": "Brand",
+      "name": "Clash Royale",
+      "slogan": "JIJIJA",
+      "logo": [
+        {
+          "@type": "URL",
+          "name": "https://static-cdn.jtvnw.net/ttv-boxart/491168_IGDB-272x380.jpg"
+        }
+      ]
+    },
+    "color": "Red",
+    "audience": "kids",
+    "award": "Premios BAFTA de Videojuegos: Premio de la Audiencia AMD eSports",
+    "countryOfOrigin": "Nueva Zelanda",
+    "isFamilyFriendly": "true"
+  },
+  {
+    "@context": "https://schema.org/",
+    "productId": 17,
+    "@type": "Product",
+    "name": "Formula 1 05",
+    "url": "https://twitter.com/AlertaF1",
+    "twitch": "formula1",
+    "releaseDate": "2005/07/01",
+    "image": "https://m.media-amazon.com/images/I/5180OFBNCJL._AC_.jpg",
+    "description": "Formula One 05 es un videojuego de carreras desarrollado por Studio Liverpool y publicado por Sony Computer Entertainment exclusivamente para PlayStation 2. Es una secuela del videojuego Formula One 04 de 2004 y se basó en el Campeonato Mundial de Fórmula Uno de 2005.",
+    "manufacturer": "Psygnosis",
+    "brand": {
+      "@type": "Brand",
+      "name": "Formula One",
+      "slogan": "Gasss",
+      "logo": [
+        {
+          "@type": "URL",
+          "name": "https://m.media-amazon.com/images/I/5180OFBNCJL._AC_.jpg"
+        }
+      ]
+    },
+    "color": "Blue",
+    "audience": "kids",
+    "award": "Ninguno",
+    "countryOfOrigin": "EEUU",
+    "isFamilyFriendly": "true",
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "7.2",
+      "bestRating": "6.4",
+      "worstRating": "8.5",
+      "ratingCount": "7.1",
+      "reviewCount": "5.1"
+    }
+  }
+]
