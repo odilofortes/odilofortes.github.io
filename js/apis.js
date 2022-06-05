@@ -44,13 +44,16 @@ function crearApiTwitter(twitterVideojuego){
   document.getElementById("api-twitter").appendChild(twS);
 }
 
-
+// Hay que pasar como parámetro la URL de la página, sino Twitch no permitirá mostrar ningún stream.
+// Para localhost: parent=localhost
+// Para nuestra página de hosting: parent=potigames.000webhostapp.com
+// Para el proyecto en github: parent=odilofortes.github.io
 function crearApiTwitch(twitch_channel){
     
   const apiTwitch = document.getElementById("api-twitch");
   apiTwitch.innerHTML = 
     `<iframe 
-      src="https://player.twitch.tv/?channel=${twitch_channel}&parent=potigames.000webhostapp.com" 
+      src="https://player.twitch.tv/?channel=${twitch_channel}&parent=odilofortes.github.io" 
       height="600" 
       width="100%" 
       allowfullscreen>
