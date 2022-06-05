@@ -244,7 +244,7 @@ function pintarInfoContacto(){
 							</span></div>
 							<div class="text">
 								<h3>Novedades</h3>
-								<p>Los últimos vídeos, twits o streams de tus vídejuegos favoritos.</p>
+								<p>Los últimos vídeos, tweets o streams de tus vídejuegos favoritos.</p>
 							</div>
 						</div>
 					</div>
